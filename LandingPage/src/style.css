@@ -129,3 +129,50 @@ footer p{
 .flogo{
     font-size: 24px;
 }
+.imgmbl{
+    display: none;
+}
+@media only screen and (max-width: 600px){
+    nav{
+        padding: 20px;
+    }
+    nav>ul , .loginbtn, .imgsection {
+        display: none;
+    }
+
+    .content>h1{
+        font-size: 30px;
+    }
+    .coursespage{
+        height: auto;
+        padding: 15px;
+    }
+    .courses{
+        display: block;
+    }
+    .course{
+        margin: 0px 0px 30px 0px;
+    }
+    footer{
+        display: block;
+        height: auto;
+    }
+    .content,.fmain{
+        width: 100%;
+    }
+    footer>div{
+        margin: 0px 0px 50px 0px;
+    }
+    .page{
+        align-items: start;
+        display: block;
+        margin: auto;
+    }
+    .imgmbl , .imgsection2{
+        display:block;
+        width: 100%;
+    }
+    .page{
+        padding: 50px;
+    }
+}
