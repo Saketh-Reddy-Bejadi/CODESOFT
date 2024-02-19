@@ -1,0 +1,70 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+body {
+  background-color: black;
+}
+.calculator {
+  background-color: white;
+  width: 309px;
+  height: 550px;
+  margin: 60px auto;
+  border-radius: 10px;
+}
+.displayValue {
+  width: 100%;
+  height: 30%;
+  background-color: #e0e0e0;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  display: flex;
+  align-items: end;
+  padding: 0px 10px;
+}
+
+#display {
+  width: 100%;
+  height: 40%;
+  border: none;
+  background-color: transparent;
+  text-align: right;
+  font-size: 40px;
+  color: black;
+  font-weight: 500;
+}
+
+.keys {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  padding: 19px;
+}
+
+button {
+  padding: 10px;
+  width: 60px;
+  height: 60px;
+  background-color: rgb(142, 142, 142);
+  font-size: 25px;
+  border-radius: 50%;
+  border: none;
+  cursor: pointer;
+  box-shadow: 4px 1px 20px -2px rgba(0, 0, 0, 0.496);
+}
+.equal {
+  width: 130px;
+  border-radius: 15px;
+  background-color: rgb(255, 200, 0);
+}
+
+button:hover {
+  background-color: #e0e0e0;
+}
+.nums {
+  background-color: transparent;
+}
