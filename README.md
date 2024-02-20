@@ -1,5 +1,5 @@
-# CODESOFT
-CODESOFT PROJECTS
+# CODSOFT
+CODSOFT PROJECTS
 
 <p>I have deployed all three tasks through <b>Github Pages</b></p>
 <p>Here are the links where you can access:</p>
