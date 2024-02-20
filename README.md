@@ -1,10 +1,6 @@
 # CODESOFT
 CODESOFT PROJECTS
-<style>
-  a{
-    text-decoration:"none";
-  }
-</style>
+
 <p>I have deployed all three tasks through <b>Github Pages</b></p>
 <p>Here are the links where you can access:</p>
 <ol>
@@ -18,3 +14,8 @@ CODESOFT PROJECTS
     <a href="https://saketh-reddy-bejadi.github.io/CODSOFT/Calculator/public/">Calculator</a>
   </li>
 </ol>
+<style>
+  a{
+    text-decoration:"none";
+  }
+</style>
