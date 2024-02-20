@@ -14,8 +14,5 @@ CODESOFT PROJECTS
     <a href="https://saketh-reddy-bejadi.github.io/CODSOFT/Calculator/public/">Calculator</a>
   </li>
 </ol>
-<style>
-  a{
-    text-decoration:"none";
-  }
-</style>
+
+
