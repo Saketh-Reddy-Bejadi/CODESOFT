@@ -1,11 +1,10 @@
+# CODESOFT
+CODESOFT PROJECTS
 <style>
   a{
     text-decoration:"none";
   }
 </style>
-
-# CODESOFT
-CODESOFT PROJECTS
 <p>I have deployed all three tasks through <b>Github Pages</b></p>
 <p>Here are the links where you can access:</p>
 <ol>
